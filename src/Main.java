@@ -1,4 +1,6 @@
-package models;
+import models.School;
+import models.Student;
+import models.Teacher;
 
 import java.io.File;
 import java.io.IOException;
